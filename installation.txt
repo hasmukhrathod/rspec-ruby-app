@@ -1,0 +1,4 @@
+1. Add gemfile
+2. add source for gemfile
+3. add rspec gem
+4. run rspec --init
